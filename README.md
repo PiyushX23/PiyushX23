@@ -18,11 +18,13 @@
 
 ### 👋 About me
 
-I am an atmospheric scientist at **SRON Netherlands Institute for Space Research** (Leiden), working at the intersection of satellite remote sensing, atmospheric physics, and machine learning. My research focuses on aerosol-cloud-climate interactions and on building retrieval algorithms that make satellite observations of the atmosphere more accurate and interpretable.
+I am an atmospheric scientist and satellite remote sensing expert at **SRON Space Research Organizations Netherlands (Leiden)**, studying how aerosols interact with clouds, radiation, and the broader climate system, and building the satellite retrieval algorithms and deep learning frameworks needed to measure them accurately from space. My expertise spans multi-angle polarimetry, lidar-based retrievals, AI/ML for Earth observation, and satellite-based monitoring of aerosols, greenhouse gases, and air pollutants.
 
-At SRON, I work on **RemoTAP** — a physics-aware deep ensemble neural network framework for uncertainty-aware quality assessment of aerosol retrievals from multi-angle polarimeters (POLDER, SPEXone). I also contribute to a science study for an **ESA-JAXA greenhouse gas satellite mission concept**, where my work focuses on developing deep learning-based CO₂ plume detection and per-pixel wind retrieval from time-sequential multi-angle imagery.
+At SRON, I work on **RemoTAP** — a physics-aware deep ensemble neural network for predictive, per-pixel uncertainty quantification of aerosol retrievals from instruments such as POLDER and SPEXone. I also contribute to a science study for an **ESA-JAXA greenhouse gas satellite mission concept**, where my focus is on developing deep learning based algorithm for GHG plume detection and in-plume wind retrieval from time-sequential multi-angle imagery for future satellite mission.
 
-Previously, I was a **NASA Postdoctoral Program Fellow at JPL** (ECLiAP algorithm for CCN retrieval from spaceborne lidar), a remote sensing scientist at **MethaneSAT / EDF** (NOx and aerosol emissions from oil and gas), and a research fellow at **ISRO** (satellite calibration, aerosol radiative forcing).
+Previously, I was a **NASA Postdoctoral Fellow at JPL** (ECLiAP: CCN concentrations from spaceborne lidar), a remote sensing scientist at **MethaneSAT / EDF** (NOx, SO₂, and aerosol emissions from global oil and gas operations), and a posdoctoral researcher and research fellow at **PRL(Physical Research Laboratory), Ahmedabad** and **SAC (Space Applications Centre), ISRO, Ahmedabad** (satellite calibration, aerosol-cloud microphysics, aerosol radiative forcing). 
+
+The atmosphere doesn't give up its secrets easily — but that's precisely what makes it worth chasing.
 
 ---
 
