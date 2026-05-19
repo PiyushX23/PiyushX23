@@ -58,7 +58,7 @@ The atmosphere doesn't give up its secrets easily — but that's precisely what 
 
 ### 🤝 Open to collaboration
 
-I am always happy to discuss and collaborate on research at the intersection of **AI and Earth observation**, particularly in atmospheric science related to **aerosols**, **clouds**, and **greenhouse gases**. If you are working on satellite retrieval algorithms, deep learning for remote sensing, or emission monitoring from space, feel free to reach out — I would love to connect.
+I am always happy to discuss and collaborate on research at the intersection of **AI, satellite remote sensing and Earth observation**, particularly in atmospheric science related to **aerosols**, **clouds**, and **greenhouse gases**. If you are working on satellite retrieval algorithms, deep learning for remote sensing, or emission monitoring from space, feel free to reach out — I would love to connect.
 
 📬 [piyushether@gmail.com](mailto:piyushether@gmail.com) &nbsp;·&nbsp; 📬 [p.patel@sron.nl](mailto:p.patel@sron.nl) &nbsp;·&nbsp; 🌐 [piyushx23.github.io](https://piyushx23.github.io)
 
